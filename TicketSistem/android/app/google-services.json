@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "8135084803",
+    "project_id": "ticketsistem",
+    "storage_bucket": "ticketsistem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8135084803:android:59cadd30c0c9ef51e5f736",
+        "android_client_info": {
+          "package_name": "com.example.ticketsistem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCph1R1ruDzZYz0FhvJzNI71Sa6Edd6AAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
